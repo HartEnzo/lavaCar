@@ -1,0 +1,7 @@
+// npm i init
+// npm i express
+// npm i mongoose
+// npm i dotenv
+//"dev": "nodemon src/index.js",
+//    "start": "node src/index.js",
+ //   "build": "npm i --omit=dev"
